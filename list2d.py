@@ -7,3 +7,4 @@ for i in range(len(nilai)):
         sum = sum + nilai[i][j]
     print(sum)
     sum = sum * 0
+    
